@@ -1,0 +1,15 @@
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\bin\Debug\net6.0\NameGenerator.exe
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\bin\Debug\net6.0\NameGenerator.deps.json
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\bin\Debug\net6.0\NameGenerator.runtimeconfig.json
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\bin\Debug\net6.0\NameGenerator.dll
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\bin\Debug\net6.0\NameGenerator.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.csproj.AssemblyReference.cache
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.AssemblyInfoInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.AssemblyInfo.cs
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.dll
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\refint\NameGenerator.dll
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\NameGenerator.genruntimeconfig.cache
+C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\obj\Debug\net6.0\ref\NameGenerator.dll

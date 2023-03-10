@@ -1,0 +1,15 @@
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.csproj.AssemblyReference.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.AssemblyInfoInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.AssemblyInfo.cs
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\bin\Debug\net6.0\HeadsOrTails.exe
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\bin\Debug\net6.0\HeadsOrTails.deps.json
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\bin\Debug\net6.0\HeadsOrTails.runtimeconfig.json
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\bin\Debug\net6.0\HeadsOrTails.dll
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\bin\Debug\net6.0\HeadsOrTails.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.dll
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\refint\HeadsOrTails.dll
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\HeadsOrTails.genruntimeconfig.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HeadsOrTails\obj\Debug\net6.0\ref\HeadsOrTails.dll
