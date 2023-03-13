@@ -7,7 +7,7 @@ Random random = new Random();
 int nameType;
 List<string> boyNames = new List<string>();
 List<string> girlNames = new List<string>();
-string filePath = @"C:\Users\maame\Documents\c#\Programming Challenges\NameGenerator\names.csv";
+string filePath = @"csv file path";
 
 //check if data file exists
 if (File.Exists(filePath))

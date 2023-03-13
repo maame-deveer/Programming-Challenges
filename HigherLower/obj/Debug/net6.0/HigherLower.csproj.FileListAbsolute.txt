@@ -1,0 +1,15 @@
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\bin\Debug\net6.0\HigherLower.exe
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\bin\Debug\net6.0\HigherLower.deps.json
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\bin\Debug\net6.0\HigherLower.runtimeconfig.json
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\bin\Debug\net6.0\HigherLower.dll
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\bin\Debug\net6.0\HigherLower.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.csproj.AssemblyReference.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.AssemblyInfoInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.AssemblyInfo.cs
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.csproj.CoreCompileInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.dll
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\refint\HigherLower.dll
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\HigherLower.genruntimeconfig.cache
+C:\Users\maame\Documents\c#\Programming Challenges\HigherLower\obj\Debug\net6.0\ref\HigherLower.dll
