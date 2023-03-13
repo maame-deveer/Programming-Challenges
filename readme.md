@@ -5,3 +5,5 @@ Using the below image i found online for programming challenges, for ideas and i
 ![The Image I'm Referring To](./prog.png)
 
 ### All The Challenge Solutions Are Written In C#
+
+### Also All Of These Are Console Applications
