@@ -1,0 +1,15 @@
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\bin\Debug\net6.0\AgeInTimeCalculator.exe
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\bin\Debug\net6.0\AgeInTimeCalculator.deps.json
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\bin\Debug\net6.0\AgeInTimeCalculator.runtimeconfig.json
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\bin\Debug\net6.0\AgeInTimeCalculator.dll
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\bin\Debug\net6.0\AgeInTimeCalculator.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.csproj.AssemblyReference.cache
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.AssemblyInfoInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.AssemblyInfo.cs
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.dll
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\refint\AgeInTimeCalculator.dll
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.pdb
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\AgeInTimeCalculator.genruntimeconfig.cache
+C:\Users\maame\Documents\c#\Programming Challenges\AgeInTimeCalculator\obj\Debug\net6.0\ref\AgeInTimeCalculator.dll
